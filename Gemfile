@@ -2,4 +2,4 @@
 source "https://rubygems.org"
 
 # gem "rails"
-gem "vlc-client"
+gem "win32-open3"
